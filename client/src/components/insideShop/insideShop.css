@@ -1,0 +1,11 @@
+.pUserData{
+    background-color: rgb(202, 199, 199);
+    font-size: 1.2em;
+}
+.spanUserData{
+    margin-left: 50px;
+}
+.buyBook:hover{
+    color: red;
+    cursor: pointer;
+}

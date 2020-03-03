@@ -1,0 +1,25 @@
+server -> DB-mySQL.js ֆայլում կա bookshop անունով mySQL տվյալների բազայի աղյուսակները:
+Աղյուսակները սարքվում են
+C:\Users\Admin\Desktop\test\server> node .\DB-mySQL.js  (ENTER)  
+հրամանների տողի հրամանով:
+
+React JS աշխատում է 
+C:\Users\Admin\Desktop\test\client> npm start   (ENTER)
+հրամանների տողի հրամանով:
+
+Node.js աշխատում է 
+C:\Users\Admin\Desktop\test\server> node .\index.js  (ENTER)
+հրամանների տողի հրամանով:
+
+
+Go To Shop բաժնում` login դաշտը լրսցնենք՝ admin և password դաշտը լրսցնենք՝ admin:
+Ապա հնարավորություն կունենանք՝ 
+Show users - տեսնել օգտատերերին,
+Show books - ավելացնել կամ ջնջել վաճառվող գրքերը,
+Income - տեսնել աևտրի քանակը ըստ ժամանակի:
+
+Registration բաժնում` օգտատերերը գրանցվում է:
+
+ATM բաժնում՝ օգտատերը գումար է ավելացնում իր հաշվին առևտրի համար:
+
+Go To Shop բաժնում՝ օգտատերը կարող է իր ընտրած գիրքը առնել:

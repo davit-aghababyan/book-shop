@@ -1,0 +1,20 @@
+.titleP{
+    background-color: rgb(199, 191, 191);
+    font-size: 1.2em;
+}
+.titleInput, .authorInput, .priceInput, .numberInput, .registButton{
+    display: inline;
+    margin-left: 20px;
+}
+.titleInput, .authorInput{
+    width: 385px;
+}
+.priceInput, .numberInput, .registButton{
+    width: 150px;
+}
+.deleteBook{
+    cursor: pointer;
+}
+.deleteBook:hover{
+    color: red;
+}
